@@ -1,0 +1,19 @@
+#alphabet img{
+    max-width: 90px;
+}
+.logo img{
+    width: 75px;
+}
+.main-nav a{
+    border-bottom: 2px solid transparent;
+    padding-bottom: 5px;
+    transition: border 0.3s;
+}
+.main-nav a:hover{
+    border-bottom: 2px solid #ff8cfc;
+    transition: border 0.3s;
+}
+#jumbotron{
+    border-top: 1px solid #e6e5ec;
+    border-bottom: 1px solid #e6e5ec;
+}

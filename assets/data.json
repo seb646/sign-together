@@ -1,0 +1,108 @@
+{
+    "alphabet": [
+        {
+            "letter": "A",
+            "img": "/assets/images/ASL-A.png"
+        },
+        {
+            "letter": "B",
+            "img": "/assets/images/ASL-B.png"
+        },
+        {
+            "letter": "C",
+            "img": "/assets/images/ASL-C.png"
+        },
+        {
+            "letter": "D",
+            "img": "/assets/images/ASL-D.png"
+        },
+        {
+            "letter": "E",
+            "img": "/assets/images/ASL-E.png"
+        },
+        {
+            "letter": "F",
+            "img": "/assets/images/ASL-F.png"
+        },
+        {
+            "letter": "G",
+            "img": "/assets/images/ASL-G.png"
+        },
+        {
+            "letter": "H",
+            "img": "/assets/images/ASL-H.png"
+        },
+        {
+            "letter": "I",
+            "img": "/assets/images/ASL-I.png"
+        },
+        {
+            "letter": "J",
+            "img": "/assets/images/ASL-J.png"
+        },
+        {
+            "letter": "K",
+            "img": "/assets/images/ASL-K.png"
+        },
+        {
+            "letter": "L",
+            "img": "/assets/images/ASL-L.png"
+        },
+        {
+            "letter": "M",
+            "img": "/assets/images/ASL-M.png"
+        },
+        {
+            "letter": "N",
+            "img": "/assets/images/ASL-N.png"
+        },
+        {
+            "letter": "O",
+            "img": "/assets/images/ASL-O.png"
+        },
+        {
+            "letter": "P",
+            "img": "/assets/images/ASL-P.png"
+        },
+        {
+            "letter": "Q",
+            "img": "/assets/images/ASL-Q.png"
+        },
+        {
+            "letter": "R",
+            "img": "/assets/images/ASL-R.png"
+        },
+        {
+            "letter": "S",
+            "img": "/assets/images/ASL-S.png"
+        },
+        {
+            "letter": "T",
+            "img": "/assets/images/ASL-T.png"
+        },
+        {
+            "letter": "U",
+            "img": "/assets/images/ASL-U.png"
+        },
+        {
+            "letter": "V",
+            "img": "/assets/images/ASL-V.png"
+        },
+        {
+            "letter": "W",
+            "img": "/assets/images/ASL-W.png"
+        },
+        {
+            "letter": "X",
+            "img": "/assets/images/ASL-X.png"
+        },
+        {
+            "letter": "Y",
+            "img": "/assets/images/ASL-Y.png"
+        },
+        {
+            "letter": "Z",
+            "img": "/assets/images/ASL-Z.png"
+        }
+    ]
+}
